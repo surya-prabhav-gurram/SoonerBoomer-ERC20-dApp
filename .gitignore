@@ -1,0 +1,120 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Diagnostic reports
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for instrumented libs
+lib-cov
+
+# Coverage directory
+coverage
+*.lcov
+.nyc_output
+
+# Grunt
+.grunt
+
+# Bower
+bower_components
+
+# node-waf
+.lock-wscript
+
+# Binary addons
+build/Release
+
+# Dependency dirs
+node_modules/
+jspm_packages/
+web_modules/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# npm / Yarn
+.npm
+.yarn-integrity
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# Lint caches
+.eslintcache
+.stylelintcache
+
+# Microbundle
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# REPL history
+.node_repl_history
+
+# npm pack output
+*.tgz
+
+# Environment variables
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# Parcel
+.cache
+.parcel-cache
+
+# Next.js / Nuxt / Gatsby / Vuepress
+.next
+out
+.nuxt
+dist
+.cache/
+.vuepress/dist
+.temp
+**/.vitepress/dist
+**/.vitepress/cache
+.docusaurus
+
+# Serverless
+.serverless/
+
+# FuseBox
+.fusebox/
+
+# DynamoDB local
+.dynamodb/
+
+# TernJS
+.tern-port
+
+# VSCode test
+.vscode-test
+
+# Hardhat
+/cache
+/artifacts
+/coverage.json
+
+# Typechain
+/typechain
+/typechain-types
+
+# Hardhat Ignition deployments
+ignition/deployments/chain-31337
