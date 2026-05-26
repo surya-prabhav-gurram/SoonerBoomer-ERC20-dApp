@@ -190,12 +190,6 @@ Then open: [http://localhost:5173](http://localhost:5173)
 * [MetaMask](https://metamask.io)
 
 ---
- 
-## License
-
-MIT License © 2025 Sujan Reddy Ayyagari
-
----
 
 ## Presentation Video Link
 
@@ -205,5 +199,5 @@ MIT License © 2025 Sujan Reddy Ayyagari
 
 ## Team
 
-* Sujan Reddy Ayyagari - sujan.reddy.ayyagari-1@ou.edu
 * Surya Prabhav Gurram - surya.prabhav.gurram-1@ou.edu
+* Sujan Reddy Ayyagari - sujan.reddy.ayyagari-1@ou.edu
