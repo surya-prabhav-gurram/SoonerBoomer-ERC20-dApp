@@ -95,7 +95,7 @@ Type:
 
 Git: Clone
 
-Paste your GitHub repo URL: https://github.com/ayyagarisujanreddy123/soonerboomer-dapp.git
+Paste your GitHub repo URL: https://github.com/surya-prabhav-gurram/SoonerBoomer-ERC20-dApp
 
 
 ### 2. Install Backend Dependencies
