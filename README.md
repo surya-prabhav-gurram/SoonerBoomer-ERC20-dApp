@@ -1,4 +1,4 @@
-# SoonerBoomer+: Claimable ERC-20 Token dApp
+# SoonerBoomer-ERC20-dApp
 
 SoonerBoomer+ is a decentralized application (dApp) developed on the Ethereum Sepolia testnet that demonstrates secure, structured token distribution for university-level engagement systems. Inspired by the University of Oklahoma, it combines blockchain-based smart contracts with an interactive React-based frontend to simulate educational incentive mechanisms using ERC-20 tokens.
 
@@ -193,7 +193,7 @@ Then open: [http://localhost:5173](http://localhost:5173)
 
 ## Presentation Video Link
 
-<https://drive.google.com/file/d/1Qf_8V-tbW9ojPP_HcqT-Cj_-uSuE17Nz/view?usp=drivesdk>
+https://youtu.be/QgrpUbpq9ck
 
 ---
 
